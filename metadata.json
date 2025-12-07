@@ -1,0 +1,5 @@
+{
+  "name": "CJNewsHub Applet",
+  "description": "A modern, high-performance Angular simulation of the CJNewsHub platform. Features role-based dashboards, AI-assisted article generation, and ad management.",
+  "requestFramePermissions": []
+}
